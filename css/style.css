@@ -1,0 +1,39 @@
+h2{
+	color: #CE6D39;
+	text-align: center;
+
+}
+
+h5{
+	color: #CE6D39;
+}
+
+.services{
+	background-image: url(https://unsplash.it/458/354?image=493);
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+p{
+	color: black;
+}
+i{
+	color:black;
+}
+.conteneur {
+	display: flex;
+	text-align: center;
+}
+
+.conteneur ul{
+	list-style: none;
+}
+
+.arrowleft{
+	margin-top: 70px;
+}
+
+
