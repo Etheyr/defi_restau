@@ -1,0 +1,75 @@
+body {
+
+
+}
+
+footer {
+
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	height: 100%;
+	background-color: red;
+	margin-bottom: 0;
+}
+.contact_us h2 {
+
+	color:#FFEEE4;
+	text-align: center;
+	margin-top: 0;
+}
+
+form input {
+
+	width: 300px;
+	height: 30px;
+	margin-top: 5%;
+}
+
+
+form textarea {
+
+	max-width: 300px;
+	max-height: 150px;
+	width: 300px;
+	height: 150px;
+	margin-top: 5%;
+}
+
+
+.formulaire {
+
+	margin-top: 5%;
+	width: 300px;
+	margin-left: 10%;
+	float: left;
+	border: 2px solid black;
+} 
+
+
+
+.texte_contact p {
+
+	margin-left: 55%;
+	width: 35%;
+	margin-top: 8%;
+
+
+
+}
+.adresse p {
+
+	margin-left: 50%;
+	width: 10%;
+}
+
+.telephone p {
+
+	text-align: right;
+}
+
+
+.footer_paragraphe {
+
+	border: 2px solid black;
+}
