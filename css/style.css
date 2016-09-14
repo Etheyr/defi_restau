@@ -1,3 +1,4 @@
+
 body {
 	margin:0;
 	padding:0;
@@ -18,8 +19,8 @@ header {
 	margin:0;
 	list-style: none;
 	line-height:10;
-
 }
+
 .header_menu  li {
 	padding-left:12.5%;
 	color:#FFEEE4;
@@ -80,3 +81,207 @@ header h3 {
     width: 10px;
     color: #FFF;
 }
+
+.categories {
+	color:#E71D36;
+	text-align: center;
+}
+
+.categories_p {
+	color:black;
+	text-align: center;
+}
+
+.categori ul {
+	padding:0;
+	margin:0;
+	list-style-type:none;
+}
+
+.categori ul li  {
+	display: inline-block;
+	padding-left: 50px ;
+}
+
+.categori ul li a{
+	color:black;
+	padding: 10px ;
+	border:1px solid black;
+	border-radius: 5px ;
+	text-decoration: none;
+}
+
+.categori ul li a:hover{
+	background-color:#E71D36;
+}
+
+.categories_tous{
+	margin-left:30%;
+	margin-top:2%;
+}
+
+.categori div.img {
+	margin: 10px;
+	border: 1px solid #ccc;
+	width: 370px;
+	margin-left:100px;
+}
+
+.categori div.img:hover {
+	border: 1px solid #777;
+}
+
+.categori div.img img {
+	width: 100%;
+	height: auto;
+}
+
+.categori div.desc {
+	padding: 40px;
+	text-align: center;
+}
+
+.categories_images {
+	display: flex;
+	margin-top:2%;
+}
+
+.button {
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	color:black;
+	padding: 10px ;
+	border:1px solid black;
+	border-radius: 5px ;
+	text-decoration: none;
+	text-align: center;
+	margin-top:2%;
+}
+
+.button:hover{
+	background-color:#E71D36;
+}
+
+.button a {
+	text-decoration: none;
+
+}
+
+.services h2{
+	color:#E71D36;
+	text-align: center;
+	padding-top:05%;
+}
+
+.services h5{
+	color: #CE6D39;
+}
+
+.services{
+	background-image: url(https://unsplash.it/458/354?image=493);
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height:500px;
+}
+
+.services p{
+	color: black;
+	text-align:center;
+}
+
+.services i{
+	color:black;
+}
+
+.conteneur {
+	display: flex;
+	text-align: center;
+}
+
+.conteneur ul{
+	list-style: none;
+}
+
+.arrowleft{
+	margin-top: 70px;
+}
+
+footer {
+	margin:0;
+	padding: 0;
+	width: 100%;
+}
+
+.contact_form {
+	width: 50%;
+	height: 10em;
+}
+
+.contact_mail {
+	width: 50%;
+	height: 10em;
+	line-height: 2;
+}
+
+.contact_form form{
+ 	margin-top: 10%;
+}
+
+.contact_content {
+	display: flex;
+	margin-top: 2%;
+}
+
+.contact_form input, textarea {
+	margin-top: 7%;
+	width: 70%;
+	display: block;
+	margin-left: 10%;
+}
+
+.contact_form textarea {
+	height: 200px;
+	min-height: 200px;
+}
+
+.contact_form button {
+	margin-left: 10%;
+	margin-top: 2%;
+	background-color: blue;
+	padding: 10px;
+	color: white;
+}
+
+
+.contact_mail li {
+	list-style: none;
+	margin-left: 0;
+	padding: 0;
+}
+
+.contact_mail ul {
+	margin-left: 0;
+	padding: 0;
+}
+
+.contact_icone {
+	display: flex;
+}
+
+.contact_icone li {
+	padding-left: 10px;
+}
+
+.contact_mail p {
+	margin-top: 10%;
+}
+
+.contact {
+	text-align: center;
+	color:#E71D36;
+}
+
