@@ -19,6 +19,7 @@ header {
 	margin:0;
 	list-style: none;
 	line-height:10;
+	text-transform: uppercase;
 }
 
 .header_menu  li {
